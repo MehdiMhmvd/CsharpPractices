@@ -1,0 +1,11 @@
+c:\users\biodroid\source\repos\BakeryDemo.BZ\BakeryDemo.BZ\obj\Debug\netcoreapp2.0\BakeryDemo.BZ.csprojResolveAssemblyReference.cache
+c:\users\biodroid\source\repos\BakeryDemo.BZ\BakeryDemo.BZ\obj\Debug\netcoreapp2.0\BakeryDemo.BZ.csproj.CoreCompileInputs.cache
+c:\users\biodroid\source\repos\BakeryDemo.BZ\BakeryDemo.BZ\obj\Debug\netcoreapp2.0\BakeryDemo.BZ.AssemblyInfoInputs.cache
+c:\users\biodroid\source\repos\BakeryDemo.BZ\BakeryDemo.BZ\obj\Debug\netcoreapp2.0\BakeryDemo.BZ.AssemblyInfo.cs
+c:\users\biodroid\source\repos\BakeryDemo.BZ\BakeryDemo.BZ\bin\Debug\netcoreapp2.0\BakeryDemo.BZ.deps.json
+c:\users\biodroid\source\repos\BakeryDemo.BZ\BakeryDemo.BZ\bin\Debug\netcoreapp2.0\BakeryDemo.BZ.runtimeconfig.json
+c:\users\biodroid\source\repos\BakeryDemo.BZ\BakeryDemo.BZ\bin\Debug\netcoreapp2.0\BakeryDemo.BZ.runtimeconfig.dev.json
+c:\users\biodroid\source\repos\BakeryDemo.BZ\BakeryDemo.BZ\bin\Debug\netcoreapp2.0\BakeryDemo.BZ.dll
+c:\users\biodroid\source\repos\BakeryDemo.BZ\BakeryDemo.BZ\bin\Debug\netcoreapp2.0\BakeryDemo.BZ.pdb
+c:\users\biodroid\source\repos\BakeryDemo.BZ\BakeryDemo.BZ\obj\Debug\netcoreapp2.0\BakeryDemo.BZ.dll
+c:\users\biodroid\source\repos\BakeryDemo.BZ\BakeryDemo.BZ\obj\Debug\netcoreapp2.0\BakeryDemo.BZ.pdb
